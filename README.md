@@ -15,3 +15,8 @@ To face a problem 🙄, come up with an idea 🤔 and find a solution 😏 - wha
 <img align="left" alt="SQL" height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Docker" height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Git" height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<br><br>
+
+#### Stats
+
+![Dmitry Smirnov's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilisk1869&count_private=true&hide=stars,issues)
